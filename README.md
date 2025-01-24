@@ -1,0 +1,2 @@
+# LoggerWidget
+PyQt GUI logger.
